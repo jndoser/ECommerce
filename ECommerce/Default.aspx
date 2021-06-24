@@ -138,7 +138,7 @@
                                                                     </tr>
                                                                     <tr>
                                                                         <td class="auto-style4">
-                                                                            <dx:ASPxButton ID="ASPxButton2" runat="server" Text="ASPxButton" Theme="iOS">
+                                                                            <dx:ASPxButton ID="ASPxButton2" runat="server" Text="View" Theme="iOS">
                                                                             </dx:ASPxButton>
                                                                         </td>
                                                                     </tr>
