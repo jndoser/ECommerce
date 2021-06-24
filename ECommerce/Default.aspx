@@ -25,7 +25,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <table class="auto-style1">
+            &nbsp;-<table class="auto-style1">
                 <tr>
                     <td>&nbsp;</td>
                     <td>&nbsp;</td>
